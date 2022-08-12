@@ -23,22 +23,22 @@ Technical support, updates & opimization for sites below:
 
 -wordpress-
 
-bouzaglo.com
-dynajet.ca
-empoweredpelvic.ca
-joudeljanoska.com
-keratinworks.com
-laknowltonco.com
-moreaugrant.com
-novagrow.io
-novoprestige.com
-prtsconstruction.com
-prtsmedia.com
-resfab.com
-teamannmalka.com
+https://bouzaglo.com
+https://dynajet.ca
+https://empoweredpelvic.ca
+https://joudeljanoska.com
+https://keratinworks.com
+https://laknowltonco.com
+https://moreaugrant.com
+https://novagrow.io
+https://novoprestige.com
+https://prtsconstruction.com
+https://prtsmedia.com
+https://resfab.com
+https://teamannmalka.com
 
 -shopify-
 
-dogchild.co
-peretsdesign.com
-joshuaperets.com
+https://dogchild.co
+https://peretsdesign.com
+https://joshuaperets.com
