@@ -1,18 +1,16 @@
 My skills & knowledge:
 - HTML, CSS (tailwind), JS
 - PHP, Laravel Blades
+- liquid
 - MySQL, MongoDB, GraphQL, REST
 - Wordpress, Shopify
 - docker, gulp
 
 List of my projects:
 
-https://matras.center - co-founder.
+-prestashop-
 
-https://dogchild.co/
-- shopify e-shop. theme customization. plugins customization.
-
-Technical support, updates & opimization for sites below:
+https://matras.center
 
 -wordpress-
 
