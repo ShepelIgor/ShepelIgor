@@ -7,14 +7,7 @@ My skills & knowledge:
 
 List of my projects:
 
-https://matras.center
-- prestashop e-shop. theme customization. plugins customization. server adjusting.
-
-https://cv-crew.com/
-- wordpress job board. theme customization. plugins customization.
-
-https://epdesignlab.com/
-- shopify e-shop. theme customization. plugins customization.
+https://matras.center - co-founder.
 
 https://dogchild.co/
 - shopify e-shop. theme customization. plugins customization.
@@ -23,6 +16,8 @@ Technical support, updates & opimization for sites below:
 
 -wordpress-
 
+https://devisesmondiales.com/
+https://pantherhealthcarecanada.com/
 https://bouzaglo.com
 https://dynajet.ca
 https://empoweredpelvic.ca
@@ -40,5 +35,5 @@ https://teamannmalka.com
 -shopify-
 
 https://dogchild.co
-https://peretsdesign.com
 https://joshuaperets.com
+https://dynamicbikecare.com/
