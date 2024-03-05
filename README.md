@@ -16,6 +16,7 @@ https://matras.center
 
 https://devisesmondiales.com/
 https://pantherhealthcarecanada.com/
+https://88publishing.com/
 
 -shopify-
 
@@ -25,6 +26,7 @@ https://dynamicbikecare.com/
 https://drye.se/
 https://strongsize.com/
 https://stormpack.com/
+https://ludeplay.com/
 
 -webflow-
 
