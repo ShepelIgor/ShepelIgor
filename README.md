@@ -6,7 +6,7 @@ My skills & knowledge:
 - Wordpress, Shopify, Webflow
 - docker, gulp, webpack, npm
 
-List of my projects:
+Projects list:
 
 -prestashop-
 
