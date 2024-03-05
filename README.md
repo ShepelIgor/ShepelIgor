@@ -20,13 +20,17 @@ https://88publishing.com/
 
 -shopify-
 
-https://dogchild.co
+https://dogchild.co/
 https://joshuaperets.com
 https://dynamicbikecare.com/
 https://drye.se/
 https://strongsize.com/
 https://stormpack.com/
 https://ludeplay.com/
+https://pylos59.eu/
+https://riseofrosa.com/
+https://coffeefactory.nl/
+https://viveh.com/
 
 -webflow-
 
