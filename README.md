@@ -16,19 +16,6 @@ https://matras.center
 
 https://devisesmondiales.com/
 https://pantherhealthcarecanada.com/
-https://bouzaglo.com
-https://dynajet.ca
-https://empoweredpelvic.ca
-https://joudeljanoska.com
-https://keratinworks.com
-https://laknowltonco.com
-https://moreaugrant.com
-https://novagrow.io
-https://novoprestige.com
-https://prtsconstruction.com
-https://prtsmedia.com
-https://resfab.com
-https://teamannmalka.com
 
 -shopify-
 
