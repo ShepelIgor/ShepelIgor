@@ -8,10 +8,6 @@ My skills & knowledge:
 
 Projects list:
 
--prestashop-
-
-https://matras.center
-
 -wordpress-
 
 - https://devisesmondiales.com/
@@ -40,3 +36,7 @@ https://matras.center
 
 - https://www.freddavid.com/
 - https://www.westdigital.co/
+
+-prestashop-
+
+- https://matras.center
