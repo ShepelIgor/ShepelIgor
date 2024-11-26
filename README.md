@@ -1,10 +1,9 @@
 My skills & knowledge:
 - HTML, CSS (tailwind), JS (jQuery, GSAP)
-- PHP, Laravel Blades
-- liquid
+- PHP, Laravel
+- Liquid
 - MySQL, GraphQL, REST
 - Wordpress, Shopify, Webflow
-- docker, gulp, webpack, npm
 
 Projects list:
 
