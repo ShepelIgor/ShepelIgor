@@ -1,6 +1,6 @@
 My skills & knowledge:
 - HTML
-- CSS (tailwind)
+- CSS (tailwind, scss)
 - JS (jQuery, GSAP, React)
 - PHP, Laravel
 - Liquid
