@@ -1,5 +1,7 @@
 My skills & knowledge:
-- HTML, CSS (tailwind), JS (jQuery, GSAP)
+- HTML
+- CSS (tailwind)
+- JS (jQuery, GSAP, React)
 - PHP, Laravel
 - Liquid
 - MySQL, GraphQL, REST
