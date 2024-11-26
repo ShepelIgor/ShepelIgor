@@ -9,12 +9,6 @@ My skills & knowledge:
 
 Projects list:
 
--wordpress-
-
-- https://devisesmondiales.com/
-- https://pantherhealthcarecanada.com/
-- https://88publishing.com/
-
 -shopify-
 
 - https://konner-sohnen.com/
@@ -32,6 +26,14 @@ Projects list:
 - https://riseofrosa.com/
 - https://coffeefactory.nl/
 - https://viveh.com/
+
+-wordpress-
+
+- https://devisesmondiales.com/
+- https://pantherhealthcarecanada.com/
+- https://88publishing.com/
+
+
 
 -webflow-
 
